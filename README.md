@@ -6,6 +6,9 @@ If you want to collaborate for anything. Please reach out me at harjeet.kumar24@
 
 Check out My youtube Channel - [Data Savvy](https://www.youtube.com/datasavvy)
 
+Blog - http://lets-do-something-big.blogspot.com/
+
+
 <!--
 **harjeet88/harjeet88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

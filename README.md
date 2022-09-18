@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 I love to explore technology. Specially Machine Learning and Big data.
-if you want to collaborate for anything. Please reach out me at harjeet.kumar24@gmail.com 
+
+If you want to collaborate for anything. Please reach out me at harjeet.kumar24@gmail.com 
+
 Check out My youtube Channel - [Data Savvy](https://www.youtube.com/datasavvy)
 
 <!--

@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I love to explore technology. Specially Machine Learning and Big data.
+if you want to collaborate for anything. Please reach out me at harjeet.kumar24@gmail.com 
+Check out My youtube Channel - [Data Savvy](https://www.youtube.com/datasavvy)
+
 <!--
 **harjeet88/harjeet88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
